@@ -2,12 +2,12 @@
 // @name         Tube in MP3
 // @namespace    http://tampermonkey.net/
 // @copyright 2017, Pedro Antônio
-// @version      0.2
+// @version      0.3
 // @description  Download Audio from Youtube in MP3
 // @author       Pedro Antônio
 // @match        https://www.youtube.com/*
 // @require https://code.jquery.com/jquery-3.2.1.min.js
-// @updateURL https://openuserjs.org/meta/pedropamn/Tube_in_MP3.meta.js
+// @downloadURL https://github.com/pedropamn/Tube-in-MP3/raw/master/Tube_in_MP3.user.js
 // @icon https://www.youtube.com/yts/img/favicon-vfl8qSV2F.ico
 
 
